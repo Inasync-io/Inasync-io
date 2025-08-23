@@ -37,6 +37,77 @@
 ### 📊 WakaTime Stats
 
 <!--START_SECTION:waka_two-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 367 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                188 commits         █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
+🌆 Daytime                485 commits         █████████████░░░░░░░░░░░░   50.21 % 
+🌃 Evening                277 commits         ███████░░░░░░░░░░░░░░░░░░   28.67 % 
+🌙 Night                  16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Tuesday                  218 commits         ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
+Wednesday                334 commits         █████████░░░░░░░░░░░░░░░░   34.58 % 
+Thursday                 137 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Friday                   144 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Saturday                 46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Sunday                   56 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               14 repos            ██████████████████████░░░   87.50 % 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Inasync-io/Inasync-io/main/assets/bar_graph.png)
+
+
+ Last Updated on 23/08/2025 12:52:58 UTC
 <!--END_SECTION:waka_two-->
 
 
