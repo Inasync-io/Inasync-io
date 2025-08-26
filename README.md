@@ -31,7 +31,7 @@
 ---
 
 ## 📊 GitHub Stats:
-![GitHub Streak](https://streak-stats.demolab.com?user=Inasync-io&theme=transparent&ring=0A7CE3&fire=FF6C37&currStreakLabel=0A7CE3&currStreakNum=414D54&sideLabels=0A7CE3&sideNums=414D54&dates=7D94A0)
+![GitHub Streak](https://streak-stats.demolab.com?user=Inasync-io&theme=transparent&ring=0A7CE3&fire=FF6C37&currStreakLabel=0A7CE3&currStreakNum=414D54&sideLabels=0A7CE3&sideNums=414D54&dates=7D94A0#gh-dark-mode-only)
 
 ---
 
