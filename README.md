@@ -69,5 +69,13 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 <!--END_SECTION:waka_two-->
 
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Inasync-io/Inasync-io/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Inasync-io/Inasync-io/output/snake-light.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Inasync-io/Inasync-io/output/snake-dark.svg">
+</picture>
+
 
 
