@@ -35,6 +35,10 @@
 
 ---
 
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Inasync-io&theme=flat&no-frame=true&margin-w=10)
+
+
 ### 📊 WakaTime Stats
 
 **I'm an Early 🐤** 
