@@ -77,5 +77,10 @@ HTML                     1 repo              ██░░░░░░░░░�
   <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Inasync-io/Inasync-io/output/snake-dark.svg">
 </picture>
 
+## 😂 Daily Dev Meme
+<!--START_SECTION:devmeme-->
+![Meme](https://i.redd.it/example.jpg)
+<!--END_SECTION:devmeme-->
+
 
 
